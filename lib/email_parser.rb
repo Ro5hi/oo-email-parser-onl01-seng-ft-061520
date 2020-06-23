@@ -5,10 +5,12 @@
 
 class EmailParser
   attr_accessor :emails
+end 
   
   def initialize(emails)
     @emails = emails 
   
   end
   
+  def 
   
